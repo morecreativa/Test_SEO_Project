@@ -1,8 +1,8 @@
 ## Test_SEO_Project
 
 ### To-do List
-[ ] Trie Structure Algorithm
-[ ] Install Intellie J
-[ ] Tree Data Structure
-[ ] DB Mapping with Oracle HR Account
-[ ] Spring Boot Build
+[ ] Trie Structure Algorithm <br>
+[ ] Install Intellie J <br>
+[ ] Tree Data Structure <br>
+[ ] DB Mapping with Oracle HR Account <br>
+[ ] Spring Boot Build <br>
